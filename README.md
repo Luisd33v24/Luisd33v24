@@ -2,57 +2,41 @@
 
 Estudante de Informática no **IFPB Itaporanga** (Vespertino).
 
-Atualmente estou no 3º ano. Meu foco vai além da superfície: dedico meus estudos a entender a base fundamental da computação.
+Atualmente estou no 3º ano e dedico meus estudos a entender a base fundamental da computação.
 
 ---
 
-### 🧑‍💻 O que estou estudando "debaixo do capô":
+### 💻 O que estou estudando "debaixo do capô":
 
 <br>
 
-<div align="left">
-
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C Logo" style="margin-right: 20px;">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++ Logo" style="margin-right: 20px;">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/2282/2282356.png" height="50" alt="Assembly x86 Logo" style="margin-right: 20px;">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python Logo" style="margin-right: 20px;">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux Logo" style="margin-right: 20px;">
-  </a>
-
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+<br>
+**C e C++:** Para entender alocação de memória, estruturas de dados e aplicações que exigem alto desempenho.
 
 <br>
 
-> **C e C++**: Alocação de memória e performance. <br>
-> **Assembly x86**: Engenharia reversa e baixo nível (representado pelo chip). <br>
-> **Python**: Automação e scripts. <br>
-> **Linux**: Meu sistema operacional principal.
+<img src="https://www.vectorlogo.zone/logos/intel/intel-icon.svg" height="35" alt="intel x86 logo"  />
+<br>
+**Assembly x86:** Para engenharia reversa, aplicações de nível hardware, sistemas críticos e sistemas que exijam extremo desempenho.
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<br>
+**Python:** Para automação e scripts rápidos.
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+<br>
+**Linux:** Meu sistema operacional principal.
 
 ---
 
 ### 📫 Contato
+Se quiser trocar uma ideia sobre código, é só chamar!
 
-Se quiser trocar uma ideia sobre código de baixo nível, é só chamar!
-
-<br>
-
-<div align="center">
+<div align="left"> 
   <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=00599C&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </div>
