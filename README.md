@@ -27,9 +27,4 @@ Atualmente estou no 3º ano e dedico meus estudos a entender a base da computaç
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZveXNkbjF6aG55YnZ5YnZ5YnZ5YnZ5YnZ5YnZ5YnZ5YnZ5YnZ5/Que1L4i8MQYhJi7E5C/giphy.gif" width="100%" height="20" />
 </div>
 
-### 📫 Contato
-Se quiser trocar uma ideia sobre código de baixo nível, é só chamar!
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-GITHUB&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
