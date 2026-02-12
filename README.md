@@ -14,25 +14,25 @@ Atualmente estou no 3º ano. Meu foco vai além da superfície: dedico meus estu
 
 <br>
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" align="center" alt="C Logo"> **C** e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" align="center" alt="C++ Logo"> **C++**
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" align="center" alt="C Logo"> **C** e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" align="center" alt="C++ Logo"> **C++**
 >
-> Para entender alocação manual de memória (pointers!), estruturas de dados complexas e construir aplicações que exigem máximo desempenho.
+> Para entender alocação manual de memória, estruturas de dados complexas e construir aplicações que exigem máximo desempenho.
 
 <br>
 
-> <img src="https://www.svgrepo.com/show/331439/intel.svg" height="30" align="center" alt="Assembly x86 Logo"> **Assembly x86**
+> <img src="https://cdn-icons-png.flaticon.com/512/9639/9639016.png" width="40" align="center" alt="Processador Icon"> **Assembly x86**
 >
 > Para engenharia reversa, desenvolvimento a nível de hardware, sistemas críticos e entender como o processador realmente "pensa".
 
 <br>
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" align="center" alt="Python Logo"> **Python**
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" align="center" alt="Python Logo"> **Python**
 >
 > Minha ferramenta para automação, scripts rápidos e prototipagem.
 
 <br>
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" align="center" alt="Linux Logo"> **Ambiente Linux**
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" align="center" alt="Linux Logo"> **Ambiente Linux**
 >
 > Meu sistema operacional principal para desenvolvimento e exploração do sistema.
 
