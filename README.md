@@ -6,7 +6,7 @@ Atualmente estou no 3º ano e dedico meus estudos a entender a base da computaç
 
 **💻 O que estou estudando por fora:**
 * **C e C++:** Para entender alocação de memória, estruturas de dados e aplicações que exigem alto desempenho.
-* **Assembly x86-64, x86:** Para engenharia reversa, aplicações de nível hardware, sistemas críticos e sistemas que exijam extremo desempenho.
+* **Assembly x86-64 e x86:** Para engenharia reversa, aplicações de nível hardware e análise de sistemas críticos.
 * **Python:** Para automação e scripts rápidos.
 
 ---
@@ -21,6 +21,10 @@ Atualmente estou no 3º ano e dedico meus estudos a entender a base da computaç
 
 ---
 
+### 📫 Contato
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiseduardo99229@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=blue&style=flat-square)
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Luisd33v24&color=blue&style=flat-square)
