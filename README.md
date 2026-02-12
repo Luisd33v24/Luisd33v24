@@ -14,27 +14,40 @@ Atualmente estou no 3º ano. Meu foco vai além da superfície: dedico meus estu
 
 <br>
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" align="center" alt="C Logo"> **C** e <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" align="center" alt="C++ Logo"> **C++**
->
-> Para entender alocação manual de memória, estruturas de dados complexas e construir aplicações que exigem máximo desempenho.
+<div align="left">
+
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C Logo" style="margin-right: 20px;">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++ Logo" style="margin-right: 20px;">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="#">
+    <img src="https://www.svgrepo.com/show/353478/cpu.svg" height="50" alt="Assembly Logo" style="margin-right: 20px;">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python Logo" style="margin-right: 20px;">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux Logo" style="margin-right: 20px;">
+  </a>
+
+</div>
 
 <br>
 
-> <img src="https://cdn-icons-png.flaticon.com/512/9639/9639016.png" width="40" align="center" alt="Processador Icon"> **Assembly x86**
->
-> Para engenharia reversa, desenvolvimento a nível de hardware, sistemas críticos e entender como o processador realmente "pensa".
-
-<br>
-
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" align="center" alt="Python Logo"> **Python**
->
-> Minha ferramenta para automação, scripts rápidos e prototipagem.
-
-<br>
-
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" align="center" alt="Linux Logo"> **Ambiente Linux**
->
-> Meu sistema operacional principal para desenvolvimento e exploração do sistema.
+> **C e C++**: Alocação de memória e performance. <br>
+> **Assembly x86**: Engenharia reversa e baixo nível (representado pelo chip). <br>
+> **Python**: Automação e scripts. <br>
+> **Linux**: Meu sistema operacional principal.
 
 ---
 
@@ -45,5 +58,5 @@ Se quiser trocar uma ideia sobre código de baixo nível, é só chamar!
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=00599C&style=flat-square&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=00599C&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </div>
