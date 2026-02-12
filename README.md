@@ -6,37 +6,23 @@ Atualmente estou no 3º ano e dedico meus estudos a entender a base fundamental 
 
 ---
 
-### 💻 O que estou estudando "debaixo do capô":
+### 💻 O que estou estudando por fora:
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /> <img width="10" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-<br>
-**C e C++:** Para entender alocação de memória, estruturas de dados e aplicações que exigem alto desempenho.
+* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) **C e C++:** Para entender alocação de memória, estruturas de dados e aplicações que exigem alto desempenho.
+
+* ![Assembly](https://img.shields.io/badge/x86_Assembly-0071C5?style=for-the-badge&logo=intel&logoColor=white) **Assembly x86:** Para engenharia reversa, aplicações de nível hardware, sistemas críticos e sistemas que exijam extremo desempenho.
+
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **Python:** Para automação e scripts rápidos.
 
 <br>
-
-<img src="https://www.vectorlogo.zone/logos/intel/intel-icon.svg" height="35" alt="intel x86 logo"  />
-<br>
-**Assembly x86:** Para engenharia reversa, aplicações de nível hardware, sistemas críticos e sistemas que exijam extremo desempenho.
-
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-<br>
-**Python:** Para automação e scripts rápidos.
-
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-<br>
-**Linux:** Meu sistema operacional principal.
 
 ---
 
 ### 📫 Contato
 Se quiser trocar uma ideia sobre código, é só chamar!
 
-<div align="left"> 
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=00599C&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </div>
