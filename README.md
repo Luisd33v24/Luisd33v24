@@ -15,7 +15,14 @@ Atualmente estou no 3º ano e dedico meus estudos a entender a base da computaç
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly_x86-555555?style=for-the-badge&logo=intel&logoColor=white)
+![Assembly AMD](https://img.shields.io/badge/Assembly_x86--64-001529?style=for-the-badge&logo=amd&logoColor=white)
+![Assembly Intel](https://img.shields.io/badge/Assembly_x86-555555?style=for-the-badge&logo=intel&logoColor=white)
+![NASM](https://img.shields.io/badge/NASM-2F343A?style=for-the-badge&logo=intel&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A51322?style=for-the-badge&logo=gnu&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-BD2125?style=for-the-badge)
+![HxD](https://img.shields.io/badge/HxD-17212D?style=for-the-badge)
+![ImHex](https://img.shields.io/badge/ImHex-5E244F?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -23,7 +30,7 @@ Atualmente estou no 3º ano e dedico meus estudos a entender a base da computaç
 
 ### 📫 Contato
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiseduardo99229@gmail.com)
+📧 E-mail: luiseduardo38459@gmail.com
 
 ---
 
