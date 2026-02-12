@@ -1,8 +1,9 @@
 # Olá, eu sou o Luís Eduardo 🌵
 
-Estudante de Informática no IFPB Itaporanga (Vespertino).
+Estudante do 3º ano do Curso Técnico em Informática no IFPB Campus Itaporanga (Vespertino).
 
-Cursando o 3º ano. **Enquanto a maioria vê a interface, eu busco a engrenagem.**
+**Enquanto a maioria vê a interface, eu busco a engrenagem.**
+
 Dedicado a decifrar a conversa silenciosa entre o software e o silício.
 
 > *"What I cannot create, I do not understand."* — **Richard Feynman**
@@ -12,6 +13,8 @@ Dedicado a decifrar a conversa silenciosa entre o software e o silício.
 **💻 O que estou estudando por fora:**
 * **C e C++:** Para dominar alocação de memória, ponteiros e desenvolver aplicações de alta performance.
 * **Assembly (x86/x64):** Para análise de malware, engenharia reversa e compreensão profunda da arquitetura de processadores.
+* **Java:** Para solidificar a Orientação a Objetos (POO) e compreender a arquitetura interna da JVM.
+* **SQL/SQLite:** Para entender persistência de dados local e análise forense de arquivos de banco de dados.
 * **Python:** Para criação de scripts de automação e ferramentas auxiliares (Tooling).
 ---
 
@@ -28,7 +31,10 @@ Dedicado a decifrar a conversa silenciosa entre o software e o silício.
 ![ImHex](https://img.shields.io/badge/ImHex-5E244F?style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
