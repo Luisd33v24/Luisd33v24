@@ -2,13 +2,17 @@
 
 Estudante de Informática no IFPB Itaporanga (Vespertino).
 
-Atualmente estou no 3º ano e dedico meus estudos a entender a base da computação.
+Cursando o 3º ano. **Enquanto a maioria vê a interface, eu busco a engrenagem.**
+Dedicado a decifrar a conversa silenciosa entre o software e o silício.
+
+> *"What I cannot create, I do not understand."* — **Richard Feynman**
+
+---
 
 **💻 O que estou estudando por fora:**
-* **C e C++:** Para entender alocação de memória, estruturas de dados e aplicações que exigem alto desempenho.
-* **Assembly x86-64 e x86:** Para engenharia reversa, aplicações de nível hardware e análise de sistemas críticos.
-* **Python:** Para automação e scripts rápidos.
-
+* **C e C++:** Para dominar alocação de memória, ponteiros e desenvolver aplicações de alta performance.
+* **Assembly (x86/x64):** Para análise de malware, engenharia reversa e compreensão profunda da arquitetura de processadores.
+* **Python:** Para criação de scripts de automação e ferramentas auxiliares (Tooling).
 ---
 
 ### 🛠️ Tecnologias
