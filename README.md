@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/SLk20p6.gif" width="100%" height="120" style="object-fit: cover;">
-</div>
-
 # Olá, eu sou o Luís Eduardo 🌵
 
 Estudante de Informática no **IFPB Itaporanga** (Vespertino).
@@ -27,7 +23,7 @@ Atualmente estou no 3º ano. Meu foco vai além da superfície: dedico meus estu
   &nbsp;&nbsp;&nbsp;
 
   <a href="#">
-    <img src="https://www.svgrepo.com/show/353478/cpu.svg" height="50" alt="Assembly Logo" style="margin-right: 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2282/2282356.png" height="50" alt="Assembly x86 Logo" style="margin-right: 20px;">
   </a>
   &nbsp;&nbsp;&nbsp;
 
