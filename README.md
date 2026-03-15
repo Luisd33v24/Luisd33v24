@@ -1,4 +1,4 @@
-# Olá, eu sou o Luís Eduardo 🌵
+# Olá, eu sou o Luís Eduardo 
 
 Estudante do 3º ano do Curso Técnico em Informática no IFPB Campus Itaporanga (Vespertino).
 
